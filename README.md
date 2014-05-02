@@ -7,9 +7,10 @@ A Restful Webservice API for Creating Courier Pickup Request.
 Developed using Jersey 1.18 .
 
 
-For exposed URI details and documentation visit :
+exposed URI details and documentation can be found at : 
+http://docs.restapi101.apiary.io/
 
-Response JSON Array format
+Sample Response JSON Array format
 
 {  {"id": 1,"user": "testuser","weight": 3,"createdDate": 1398978496084,"pickupSlot": "2 PM - 3 PM",
         "packageCount": 2,
